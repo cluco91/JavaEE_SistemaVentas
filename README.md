@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/cluco91/JavaEE_Facturacion/blob/master/facturacion.png)
+![Image of Yaktocat](https://github.com/cluco91/JavaEE_SistemaVentas/blob/master/ventas.png)
 
 # JavaEE_SistemaVentas
 
