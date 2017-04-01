@@ -7,6 +7,6 @@ operaciones de Venta de Productos.
 
 Desde Agregar, Editar, Eliminar y Listar:
 
-1. Persona
-2. Producto
-3. Venta
+1. Personas
+2. Productos
+3. Ventas
