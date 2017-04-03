@@ -2,11 +2,11 @@
 
 # JavaEE_SistemaVentas
 
--Consiste en una aplicacion donde basandose en operaciones CRUD permite realizar
-operaciones de Venta de Productos.
+- Consiste en una aplicacion donde basandose en operaciones CRUD permite realizar
+  operaciones de Venta de Productos.
+  
+ - Desde Agregar, Editar, Eliminar y Listar:
 
-Desde Agregar, Editar, Eliminar y Listar:
-
-1. Personas
-2. Productos
-3. Ventas
+	   1. Personas
+	   2. Productos
+	   3. Ventas
